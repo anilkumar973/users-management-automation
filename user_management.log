@@ -1,0 +1,17 @@
+2025-11-13 05:53:09 [SKIP] Line skipped (comment): # username;group1,group2,group3
+2025-11-13 05:53:09 [INFO] Group exists: sudo
+2025-11-13 05:53:09 [INFO] Group exists: dev
+2025-11-13 05:53:09 [INFO] Group exists: www-data
+2025-11-13 05:53:09 [INFO] User already exists: light
+2025-11-13 05:53:09 [INFO] Added user light to groups: sudo,dev,www-data
+2025-11-13 05:53:09 [INFO] Password set and stored for user: light
+2025-11-13 05:53:09 [INFO] Group exists: sudo
+2025-11-13 05:53:09 [INFO] User already exists: siyoni
+2025-11-13 05:53:07 [INFO] Added user siyoni to groups: sudo
+2025-11-13 05:53:07 [INFO] Password set and stored for user: siyoni
+2025-11-13 05:53:07 [INFO] Group exists: dev
+2025-11-13 05:53:07 [INFO] Group exists: www-data
+2025-11-13 05:53:07 [INFO] User already exists: manoj
+2025-11-13 05:53:07 [INFO] Added user manoj to groups: dev,www-data
+2025-11-13 05:53:08 [INFO] Password set and stored for user: manoj
+2025-11-13 05:53:08 [INFO] Processing complete for file: users.txt

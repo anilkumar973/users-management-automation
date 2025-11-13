@@ -1,0 +1,4 @@
+# username;group1,group2,group3
+light; sudo,dev,www-data
+siyoni; sudo
+manoj; dev,www-data
