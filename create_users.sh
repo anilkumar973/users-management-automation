@@ -22,7 +22,7 @@ set -o pipefail
 INPUT_FILE="${1:-}"
 
 # Files/directories used
-PW_DIR="/var/secure"
+PW_DIR="/mnt/c/Users/anil 1/OneDrive/Desktop/user management automation"
 PW_FILE="${PW_DIR}/user_passwords.txt"
 LOG_FILE="/mnt/c/Users/anil 1/OneDrive/Desktop/user management automation/user_management.log"
 

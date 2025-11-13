@@ -2,3 +2,6 @@
 light; sudo,dev,www-data
 siyoni; sudo
 manoj; dev,www-data
+Raj;devops,www-date
+Prasad;devops,www-date
+sagar;dev,www-date

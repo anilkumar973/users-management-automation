@@ -15,3 +15,166 @@
 2025-11-13 05:53:07 [INFO] Added user manoj to groups: dev,www-data
 2025-11-13 05:53:08 [INFO] Password set and stored for user: manoj
 2025-11-13 05:53:08 [INFO] Processing complete for file: users.txt
+2025-11-13 11:17:49 [SKIP] Line skipped (comment): # username;group1,group2,group3
+2025-11-13 11:17:49 [INFO] Group exists: sudo
+2025-11-13 11:17:49 [INFO] Group exists: dev
+2025-11-13 11:17:49 [INFO] Group exists: www-data
+2025-11-13 11:17:49 [INFO] User already exists: light
+2025-11-13 11:17:49 [INFO] Added user light to groups: sudo,dev,www-data
+2025-11-13 11:17:49 [INFO] Password set and stored for user: light
+2025-11-13 11:17:49 [INFO] Group exists: sudo
+2025-11-13 11:17:49 [INFO] User already exists: siyoni
+2025-11-13 11:17:49 [INFO] Added user siyoni to groups: sudo
+2025-11-13 11:17:49 [INFO] Password set and stored for user: siyoni
+2025-11-13 11:17:49 [INFO] Group exists: dev
+2025-11-13 11:17:49 [INFO] Group exists: www-data
+2025-11-13 11:17:49 [INFO] User already exists: manoj
+2025-11-13 11:17:49 [INFO] Added user manoj to groups: dev,www-data
+2025-11-13 11:17:49 [INFO] Password set and stored for user: manoj
+2025-11-13 11:17:49 [ERROR] Failed to create group:  (continuing)
+2025-11-13 11:17:49 [ERROR] Failed to create user Raj , devops , www-date
+2025-11-13 11:17:49 [ERROR] Failed to create group:  (continuing)
+2025-11-13 11:17:49 [ERROR] Failed to create user Prasad , devops, www-date
+2025-11-13 11:17:49 [INFO] Processing complete for file: users.txt
+2025-11-13 11:34:02 [SKIP] Line skipped (comment): # username;group1,group2,group3
+2025-11-13 11:34:02 [INFO] Group exists: sudo
+2025-11-13 11:34:02 [INFO] Group exists: dev
+2025-11-13 11:34:02 [INFO] Group exists: www-data
+2025-11-13 11:34:02 [INFO] User already exists: light
+2025-11-13 11:34:02 [INFO] Added user light to groups: sudo,dev,www-data
+2025-11-13 11:34:03 [INFO] Password set and stored for user: light
+2025-11-13 11:34:03 [INFO] Group exists: sudo
+2025-11-13 11:34:03 [INFO] User already exists: siyoni
+2025-11-13 11:34:03 [INFO] Added user siyoni to groups: sudo
+2025-11-13 11:34:03 [INFO] Password set and stored for user: siyoni
+2025-11-13 11:34:03 [INFO] Group exists: dev
+2025-11-13 11:34:03 [INFO] Group exists: www-data
+2025-11-13 11:34:03 [INFO] User already exists: manoj
+2025-11-13 11:34:03 [INFO] Added user manoj to groups: dev,www-data
+2025-11-13 11:34:03 [INFO] Password set and stored for user: manoj
+2025-11-13 11:34:03 [ERROR] Failed to create group:  (continuing)
+2025-11-13 11:34:03 [ERROR] Failed to create user Raj , devops , www-date
+2025-11-13 11:34:03 [ERROR] Failed to create group:  (continuing)
+2025-11-13 11:34:03 [ERROR] Failed to create user Prasad , devops, www-date
+2025-11-13 11:34:03 [INFO] Processing complete for file: users.txt
+2025-11-13 11:34:58 [SKIP] Line skipped (comment): # username;group1,group2,group3
+2025-11-13 11:34:58 [INFO] Group exists: sudo
+2025-11-13 11:34:58 [INFO] Group exists: dev
+2025-11-13 11:34:58 [INFO] Group exists: www-data
+2025-11-13 11:34:58 [INFO] User already exists: light
+2025-11-13 11:34:58 [INFO] Added user light to groups: sudo,dev,www-data
+2025-11-13 11:34:59 [INFO] Password set and stored for user: light
+2025-11-13 11:34:59 [INFO] Group exists: sudo
+2025-11-13 11:34:59 [INFO] User already exists: siyoni
+2025-11-13 11:34:59 [INFO] Added user siyoni to groups: sudo
+2025-11-13 11:34:59 [INFO] Password set and stored for user: siyoni
+2025-11-13 11:34:59 [INFO] Group exists: dev
+2025-11-13 11:34:59 [INFO] Group exists: www-data
+2025-11-13 11:34:59 [INFO] User already exists: manoj
+2025-11-13 11:34:59 [INFO] Added user manoj to groups: dev,www-data
+2025-11-13 11:34:59 [INFO] Password set and stored for user: manoj
+2025-11-13 11:34:59 [ERROR] Failed to create group:  (continuing)
+2025-11-13 11:34:59 [ERROR] Failed to create user Raj , devops , www-date
+2025-11-13 11:34:59 [ERROR] Failed to create group:  (continuing)
+2025-11-13 11:34:59 [ERROR] Failed to create user Prasad , devops, www-date
+2025-11-13 11:34:59 [ERROR] Failed to create group:  (continuing)
+2025-11-13 11:34:59 [ERROR] Failed to create user sagar , ai , www-date
+2025-11-13 11:34:59 [INFO] Processing complete for file: users.txt
+2025-11-13 11:39:29 [SKIP] Line skipped (comment): # username;group1,group2,group3
+2025-11-13 11:39:29 [INFO] Group exists: sudo
+2025-11-13 11:39:29 [INFO] Group exists: dev
+2025-11-13 11:39:29 [INFO] Group exists: www-data
+2025-11-13 11:39:29 [INFO] User already exists: light
+2025-11-13 11:39:29 [INFO] Added user light to groups: sudo,dev,www-data
+2025-11-13 11:39:29 [INFO] Password set and stored for user: light
+2025-11-13 11:39:29 [INFO] Group exists: sudo
+2025-11-13 11:39:29 [INFO] User already exists: siyoni
+2025-11-13 11:39:30 [INFO] Added user siyoni to groups: sudo
+2025-11-13 11:39:30 [INFO] Password set and stored for user: siyoni
+2025-11-13 11:39:30 [INFO] Group exists: dev
+2025-11-13 11:39:30 [INFO] Group exists: www-data
+2025-11-13 11:39:30 [INFO] User already exists: manoj
+2025-11-13 11:39:30 [INFO] Added user manoj to groups: dev,www-data
+2025-11-13 11:39:30 [INFO] Password set and stored for user: manoj
+2025-11-13 11:39:30 [ERROR] Failed to create group:  (continuing)
+2025-11-13 11:39:30 [ERROR] Failed to create user Raj,devops,www-date
+2025-11-13 11:39:30 [ERROR] Failed to create group:  (continuing)
+2025-11-13 11:39:30 [ERROR] Failed to create user Prasad,devops,www-date
+2025-11-13 11:39:30 [ERROR] Failed to create group:  (continuing)
+2025-11-13 11:39:30 [ERROR] Failed to create user sagar,ai,www-date
+2025-11-13 11:39:30 [INFO] Processing complete for file: users.txt
+2025-11-13 11:43:41 [SKIP] Line skipped (comment): # username;group1,group2,group3
+2025-11-13 11:43:41 [INFO] Group exists: sudo
+2025-11-13 11:43:41 [INFO] Group exists: dev
+2025-11-13 11:43:41 [INFO] Group exists: www-data
+2025-11-13 11:43:41 [INFO] User already exists: light
+2025-11-13 11:43:41 [INFO] Added user light to groups: sudo,dev,www-data
+2025-11-13 11:43:41 [INFO] Password set and stored for user: light
+2025-11-13 11:43:41 [INFO] Group exists: sudo
+2025-11-13 11:43:41 [INFO] User already exists: siyoni
+2025-11-13 11:43:41 [INFO] Added user siyoni to groups: sudo
+2025-11-13 11:43:41 [INFO] Password set and stored for user: siyoni
+2025-11-13 11:43:41 [INFO] Group exists: dev
+2025-11-13 11:43:41 [INFO] Group exists: www-data
+2025-11-13 11:43:41 [INFO] User already exists: manoj
+2025-11-13 11:43:41 [INFO] Added user manoj to groups: dev,www-data
+2025-11-13 11:43:41 [INFO] Password set and stored for user: manoj
+2025-11-13 11:43:42 [ERROR] Failed to create group:  (continuing)
+2025-11-13 11:43:42 [ERROR] Failed to create user Raj,devops,www-date
+2025-11-13 11:43:42 [ERROR] Failed to create group:  (continuing)
+2025-11-13 11:43:42 [ERROR] Failed to create user Prasad,devops,www-date
+2025-11-13 11:43:42 [ERROR] Failed to create group:  (continuing)
+2025-11-13 11:43:42 [ERROR] Failed to create user sagar,dev,www-date
+2025-11-13 11:43:42 [INFO] Processing complete for file: users.txt
+2025-11-13 11:44:27 [SKIP] Line skipped (comment): # username;group1,group2,group3
+2025-11-13 11:44:27 [INFO] Group exists: sudo
+2025-11-13 11:44:27 [INFO] Group exists: dev
+2025-11-13 11:44:27 [INFO] Group exists: www-data
+2025-11-13 11:44:27 [INFO] User already exists: light
+2025-11-13 11:44:27 [INFO] Added user light to groups: sudo,dev,www-data
+2025-11-13 11:44:27 [INFO] Password set and stored for user: light
+2025-11-13 11:44:27 [INFO] Group exists: sudo
+2025-11-13 11:44:27 [INFO] User already exists: siyoni
+2025-11-13 11:44:27 [INFO] Added user siyoni to groups: sudo
+2025-11-13 11:44:27 [INFO] Password set and stored for user: siyoni
+2025-11-13 11:44:27 [INFO] Group exists: dev
+2025-11-13 11:44:27 [INFO] Group exists: www-data
+2025-11-13 11:44:28 [INFO] User already exists: manoj
+2025-11-13 11:44:28 [INFO] Added user manoj to groups: dev,www-data
+2025-11-13 11:44:28 [INFO] Password set and stored for user: manoj
+2025-11-13 11:44:28 [ERROR] Failed to create group:  (continuing)
+2025-11-13 11:44:28 [ERROR] Failed to create user Raj,devops,www-date
+2025-11-13 11:44:28 [ERROR] Failed to create group:  (continuing)
+2025-11-13 11:44:28 [ERROR] Failed to create user Prasad,devops,www-date
+2025-11-13 11:44:28 [ERROR] Failed to create group:  (continuing)
+2025-11-13 11:44:28 [ERROR] Failed to create user sagar,dev,www-date
+2025-11-13 11:44:28 [INFO] Processing complete for file: users.txt
+2025-11-13 11:45:07 [SKIP] Line skipped (comment): # username;group1,group2,group3
+2025-11-13 11:45:07 [INFO] Group exists: sudo
+2025-11-13 11:45:07 [INFO] Group exists: dev
+2025-11-13 11:45:07 [INFO] Group exists: www-data
+2025-11-13 11:45:07 [INFO] User already exists: light
+2025-11-13 11:45:07 [INFO] Added user light to groups: sudo,dev,www-data
+2025-11-13 11:45:07 [INFO] Password set and stored for user: light
+2025-11-13 11:45:07 [INFO] Group exists: sudo
+2025-11-13 11:45:07 [INFO] User already exists: siyoni
+2025-11-13 11:45:07 [INFO] Added user siyoni to groups: sudo
+2025-11-13 11:45:07 [INFO] Password set and stored for user: siyoni
+2025-11-13 11:45:07 [INFO] Group exists: dev
+2025-11-13 11:45:07 [INFO] Group exists: www-data
+2025-11-13 11:45:07 [INFO] User already exists: manoj
+2025-11-13 11:45:07 [INFO] Added user manoj to groups: dev,www-data
+2025-11-13 11:45:07 [INFO] Password set and stored for user: manoj
+2025-11-13 11:45:07 [INFO] Created group: devops
+2025-11-13 11:45:07 [INFO] Created group: www-date
+2025-11-13 11:45:07 [INFO] Created user: Raj (groups: devops,www-date)
+2025-11-13 11:45:07 [INFO] Password set and stored for user: Raj
+2025-11-13 11:45:07 [INFO] Group exists: devops
+2025-11-13 11:45:07 [INFO] Group exists: www-date
+2025-11-13 11:45:08 [INFO] Created user: Prasad (groups: devops,www-date)
+2025-11-13 11:45:08 [INFO] Password set and stored for user: Prasad
+2025-11-13 11:45:08 [INFO] Group exists: dev
+2025-11-13 11:45:08 [INFO] Group exists: www-date
+2025-11-13 11:45:08 [INFO] Created user: sagar (groups: dev,www-date)
+2025-11-13 11:45:08 [INFO] Password set and stored for user: sagar
+2025-11-13 11:45:08 [INFO] Processing complete for file: users.txt
